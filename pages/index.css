@@ -1,5 +1,10 @@
 .page {
     min-width: 1100px;
     max-width: 1600px;
-    margin: auto;
+    margin: 0 auto;
+    font-family: "Inter", italic noto serif;
+    font-size: 400px;
+    line-height: 500;
+    font-weight: 700;
 }
+
