@@ -121,7 +121,8 @@
 .recipes {
   background-image: url(../images/background_recipes.svg);
   background-color: #0a2750;
-  padding: 100px 80px;
+  padding: 215px 80px;
+  background-position: center;
 }
 
 .recipes__title {
@@ -169,4 +170,12 @@
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
+}
+
+.section__reservation {
+  background-image: url(../images/background_reservation.svg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #d9e7ff;
 }
