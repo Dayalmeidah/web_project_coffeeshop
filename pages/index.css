@@ -189,10 +189,10 @@
 .reservation__title {
   text-align: center;
   font-family: Inter;
-  font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  margin: 100px 0 60px 0;
 }
 
 .form__fieldset {
