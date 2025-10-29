@@ -51,3 +51,6 @@
   line-height: 30px;
   color: #ffffff;
 }
+.background__recipes-svg {
+  background-size: cover;
+}
