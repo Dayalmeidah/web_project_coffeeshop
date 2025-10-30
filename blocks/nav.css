@@ -26,6 +26,10 @@
   line-height: 20px;
 }
 
+.nav__link:hover {
+  color: #2f80ed;
+}
+
 .nav__links {
   gap: 20px;
   display: flex;
