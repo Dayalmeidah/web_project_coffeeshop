@@ -18,3 +18,8 @@ Este projeto é uma página web simples para o **café especial da biblioteca Tr
 
 O design tem uma estética simples e ao mesmo tempo moderna, com cores suaves que cria um ambiente acolhedor,
 e uma estrutura responsiva e organizada.
+
+📄 Licença
+
+Projeto criado para fins educacionais e de demonstração.
+© 2025 Triple Espresso. Todos os direitos reservados.
