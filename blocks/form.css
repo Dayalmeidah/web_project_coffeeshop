@@ -32,6 +32,7 @@
   border-radius: 4px;
   height: 60px;
   margin-bottom: 32px;
+  cursor: pointer;
 }
 
 .form__checkbox-input {
